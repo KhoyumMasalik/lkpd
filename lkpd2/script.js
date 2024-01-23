@@ -31,8 +31,7 @@ let sisaDetik1 = totalDetik % 3600;
 let menit = parseInt(sisaDetik1 / 60);
 let detik = sisaDetik1 % 60;
 
-console.log(totalDetik + " adalah");
+console.log(totalDetik + " detik adalah");
 console.log("Jam: " + jam);
 console.log("Menit: " + menit);
 console.log("Detik: " + detik);
-console.log("Sisa detik: " + sisaDetik1);
