@@ -12,16 +12,16 @@ console.log(`Pajaknya adalah ${pajak}`);
 console.log(`Gaji bersihnya adalah ${gajiBersih}`);
 
 // // 2.
-// let jam = 1;
-// let menit = 30;
-// let detik = 40;
+let jam = 1;
+let menit = 30;
+let detik = 40;
 
-// let totalDetik = jam * 3600 + menit * 60 + detik;
+let totalDetik = jam * 3600 + menit * 60 + detik;
 
-// console.log(jam + " jam");
-// console.log(menit + " menit");
-// console.log(detik + " detik");
-// console.log("Total detik: " + totalDetik);
+console.log(jam + " jam");
+console.log(menit + " menit");
+console.log(detik + " detik");
+console.log("Total detik: " + totalDetik);
 
 // // 3.
 // let totalDetik = 5440;
